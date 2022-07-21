@@ -2,7 +2,7 @@
 html,css,javaScript files for the website. 
 
 Here you can find 3 files html/css/JavaScript linked togther to create a website to convert the Arabic speech into an Arabic words. 
-First : you have to open the htmk file to run the website 
+First : you have to open the html file to run the website 
 and then you can find a text Area and Michrophone 
 Click on the Michrophone and start speaking , all the speak will convert to an Arabic texts. 
 
